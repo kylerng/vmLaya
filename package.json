@@ -4,7 +4,8 @@
   "description": "MVVM for LayaAir",
   "main": "''",
   "scripts": {
-    "test": "''"
+    "test": "''",
+    "build":"tsc -p ."
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,10 @@
   ],
   "author": "YingDev.com",
   "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.6",
+    "tslib": "^1.8.1"
+  },
   "bugs": {
     "url": "https://github.com/yingDev/vmLaya/issues"
   },

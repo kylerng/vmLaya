@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "importHelpers": true,
+    "declaration": true,
+    "target": "es6",
+    "sourceMap": true,
+    "outDir": "dist",
+     "lib": ["es2015.promise", "es6", "dom"],
+     "alwaysStrict": true,
+    "experimentalDecorators": true,
+    "allowJs": false
+  },
+  "compileOnSave": false,
+  "exclude": [
+    "node_modules", "dist"
+  ]
+}
