@@ -37,8 +37,6 @@ import "rxjs/add/operator/withLatestFrom"
 import "rxjs/add/observable/range"
 import "rxjs/add/operator/distinctUntilChanged";
 
-import 'flv.js'
-
 export * from './RxProperty'
 export * from './RxCommand'
 export * from './RxArray'
