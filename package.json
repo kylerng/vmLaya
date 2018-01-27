@@ -5,7 +5,8 @@
   "main": "''",
   "scripts": {
     "test": "''",
-    "build": "tsc -p ."
+    "build": "rm -rf dist && tsc -p . && cp package.json ./dist",
+    "publish": "npm publish dist"
   },
   "repository": {
     "type": "git",
