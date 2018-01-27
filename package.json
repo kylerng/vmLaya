@@ -6,7 +6,7 @@
   "scripts": {
     "test": "''",
     "build": "rm -rf dist && tsc -p .",
-    "pub": "npm run build && cp package.json ./vmlaya && npm publish dist"
+    "pub": "npm run build && cp package.json ./dist && npm publish dist"
   },
   "repository": {
     "type": "git",
