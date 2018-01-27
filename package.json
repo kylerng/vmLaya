@@ -1,0 +1,26 @@
+{
+  "name": "vmlaya",
+  "version": "1.0.0",
+  "description": "MVVM for LayaAir",
+  "main": "''",
+  "scripts": {
+    "test": "''"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yingDev/vmLaya.git"
+  },
+  "keywords": [
+    "mvvm",
+    "layabox",
+    "layaair",
+    "rxjs",
+    "data-binding"
+  ],
+  "author": "YingDev.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yingDev/vmLaya/issues"
+  },
+  "homepage": "https://github.com/yingDev/vmLaya#readme"
+}
