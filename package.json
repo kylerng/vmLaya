@@ -5,8 +5,8 @@
   "main": "''",
   "scripts": {
     "test": "''",
-    "build": "rm -rf dist && tsc -p .",
-    "publish": "cp package.json ./dist && npm publish dist"
+    "build": "rm -rf vmlaya && tsc -p .",
+    "publish": "npm run build && cp package.json ./vmlaya && npm publish vmlaya"
   },
   "repository": {
     "type": "git",
