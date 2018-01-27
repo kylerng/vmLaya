@@ -3,6 +3,7 @@
     "module": "commonjs",
     "importHelpers": true,
     "declaration": true,
+    "sourceRoot": "src",
     "target": "es6",
     "sourceMap": true,
     "outDir": "vmlaya",
