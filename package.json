@@ -1,11 +1,11 @@
 {
   "name": "vmlaya",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MVVM for LayaAir",
   "main": "''",
   "scripts": {
     "test": "''",
-    "build":"tsc -p ."
+    "build": "tsc -p ."
   },
   "repository": {
     "type": "git",
