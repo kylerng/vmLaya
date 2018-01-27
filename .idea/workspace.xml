@@ -3,38 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="410b085b-610d-4e25-ab46-921d73921e83" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.npmignore" afterPath="" />
       <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/BindableView.ts" afterPath="$PROJECT_DIR$/src/vmlaya/BindableView.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/IMarkDirty.ts" afterPath="$PROJECT_DIR$/src/vmlaya/IMarkDirty.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/RcObject.ts" afterPath="$PROJECT_DIR$/src/vmlaya/RcObject.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/RxLaya.ts" afterPath="$PROJECT_DIR$/src/vmlaya/RxLaya.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/ViewBase.ts" afterPath="$PROJECT_DIR$/src/vmlaya/ViewBase.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/decorators.ts" afterPath="$PROJECT_DIR$/src/vmlaya/decorators.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/BasePanelViewModel_rc.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/BasePanelViewModel_rc.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/DataSourceDrivenViewModel.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/DataSourceDrivenViewModel.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/DummyViewFactory.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/DummyViewFactory.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/NavPageHolder.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/NavPageHolder.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/NavigationView.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/NavigationView.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/NavigationViewModel.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/NavigationViewModel.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/OverlayWrapperView.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/OverlayWrapperView.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/RcViewModel.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/RcViewModel.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/SimpleNavTransition.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/SimpleNavTransition.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/ViewFactory.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/ViewFactory.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/VmViewBase.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/VmViewBase.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/decorators.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/decorators.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/index.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/index.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/mvvm/interfaces.ts" afterPath="$PROJECT_DIR$/src/vmlaya/mvvm/interfaces.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/utils/LangDict.ts" afterPath="$PROJECT_DIR$/src/vmlaya/utils/LangDict.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/utils/Pref.ts" afterPath="$PROJECT_DIR$/src/vmlaya/utils/Pref.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/utils/SmallArrayPool.ts" afterPath="$PROJECT_DIR$/src/vmlaya/utils/SmallArrayPool.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/utils/enumerate-decendants.ts" afterPath="$PROJECT_DIR$/src/vmlaya/utils/enumerate-decendants.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/utils/fmt.ts" afterPath="$PROJECT_DIR$/src/vmlaya/utils/fmt.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/utils/index.ts" afterPath="$PROJECT_DIR$/src/vmlaya/utils/index.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/utils/layout-helper.ts" afterPath="$PROJECT_DIR$/src/vmlaya/utils/layout-helper.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/utils/math.ts" afterPath="$PROJECT_DIR$/src/vmlaya/utils/math.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/utils/meta.ts" afterPath="$PROJECT_DIR$/src/vmlaya/utils/meta.ts" />
-      <change beforePath="$PROJECT_DIR$/src/vm-laya/utils/pollyfill.ts" afterPath="$PROJECT_DIR$/src/vmlaya/utils/pollyfill.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/src/vmlaya/utils/meta.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding>
                 <element signature="e#60#132#0" expanded="true" />
               </folding>
@@ -129,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/src/rx-ex/index.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -138,8 +107,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="34">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -229,6 +198,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/dist/package.json" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -265,12 +235,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517081348875</updated>
-      <workItem from="1517081350286" duration="7479000" />
+      <workItem from="1517081350286" duration="7641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7479000" />
+    <option name="totallyTimeSpent" value="7641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="294" y="107" width="1732" height="1260" extended-state="0" />
@@ -505,7 +475,7 @@
     <entry file="file://$PROJECT_DIR$/src/rx-ex/index.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -521,17 +491,25 @@
     <entry file="file://$PROJECT_DIR$/src/vmlaya/utils/meta.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="e#60#132#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dist/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>

@@ -5,8 +5,8 @@
   "main": "''",
   "scripts": {
     "test": "''",
-    "build": "rm -rf dist && tsc -p . && cp package.json ./dist",
-    "publish": "npm publish dist"
+    "build": "rm -rf dist && tsc -p .",
+    "publish": "cp package.json ./dist && npm publish dist"
   },
   "repository": {
     "type": "git",
