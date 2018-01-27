@@ -1,8 +1,8 @@
 /**
  * Created by Ying <me@YingDev.com> on 2017/12/7.
  **/
-import {IRequestClose, VmViewBase} from ".";
-import {zeroMargins} from "../utils";
+import {IRequestClose, VmViewBase} from "./index";
+import {zeroMargins} from "../utils/index";
 
 /**
  * 提供半透明背景层。

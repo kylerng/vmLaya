@@ -4,7 +4,7 @@
 
 import {BindableView, NextFn, NextFnOrName} from "./BindableView";
 import {Observable} from "rxjs/Observable";
-import {rxBindByPropName} from "../rx-ex";
+import {rxBindByPropName} from "rxex";
 import {RxLaya} from "./RxLaya";
 
 export

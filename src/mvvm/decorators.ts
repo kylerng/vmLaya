@@ -8,10 +8,10 @@ import {
 	subTextChange,
 	subValueChange
 } from "../decorators";
-import {RxCommand} from "../../rx-ex/RxCommand";
+import {RxCommand} from "rxex/RxCommand";
 import {NavPageHidingStrategy} from "./interfaces";
 import {Observable} from "rxjs/Observable";
-import {RxProperty} from "../../rx-ex/RxProperty";
+import {RxProperty} from "rxex/RxProperty";
 
 
 export function vmBindText(name:string) : any

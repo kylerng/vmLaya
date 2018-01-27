@@ -1,7 +1,7 @@
 /**
  * Created by Ying <me@YingDev.com> on 2017/12/9.
  **/
-import {rxNumber, $, RxNumber} from "../rx-ex";
+import {rxNumber, $, RxNumber} from "rxex";
 import {Subscription} from "rxjs/Subscription";
 import {Observable} from "rxjs/Observable";
 

@@ -5,7 +5,7 @@
 import {lazy} from "../IMarkDirty";
 import {ref, unref} from "../RcObject";
 import {RcViewModel} from "./index";
-import {rxSubj, $} from "../../rx-ex/index";
+import {rxSubj, $} from "rxex/index";
 import {SmallArrayPool} from "../utils/SmallArrayPool";
 
 //todo: parent

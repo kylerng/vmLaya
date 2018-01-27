@@ -2,7 +2,7 @@
  * Created by Ying <me@YingDev.com> on 02/03/2017.
  **/
 
-import {RxProperty, rxString} from "../../rx-ex";
+import {RxProperty, rxString} from "rxex";
 
 export class LangDict
 {

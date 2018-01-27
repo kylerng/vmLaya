@@ -4,7 +4,7 @@
 
 import {Subscription} from "rxjs/Subscription";
 import {Observable} from "rxjs/Observable";
-import {$} from "../rx-ex";
+import {$} from "rxex";
 import {FromEventPatternObservable} from "rxjs/observable/FromEventPatternObservable";
 
 declare module "rxjs/Subscription" {

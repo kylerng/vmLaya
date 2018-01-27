@@ -1,7 +1,7 @@
 /**
  * Created by Ying <me@YingDev.com> on 2017/12/7.
  **/
-import {zeroMargins} from "../utils";
+import {zeroMargins} from "../utils/index";
 import {VmViewBase} from "./VmViewBase";
 import {INavPageVm, NavPageHidingStrategy, ViewInfo} from "./interfaces";
 

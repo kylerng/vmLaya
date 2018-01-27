@@ -2,7 +2,7 @@
  * Created by Ying <me@YingDev.com> on 2017/12/7.
  **/
 
-import {RxCommand} from "../../rx-ex/RxCommand";
+import {RxCommand} from "rxex/RxCommand";
 import {VmViewBase} from "./VmViewBase";
 import {Observable} from "rxjs/Observable";
 

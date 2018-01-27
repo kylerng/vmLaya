@@ -5,8 +5,8 @@
   "main": "''",
   "scripts": {
     "test": "''",
-    "build": "rm -rf vmlaya && tsc -p .",
-    "pub": "npm run build && cp package.json ./vmlaya && npm publish vmlaya"
+    "build": "rm -rf dist && tsc -p .",
+    "pub": "npm run build && cp package.json ./vmlaya && npm publish dist"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   "author": "YingDev.com",
   "license": "ISC",
   "dependencies": {
+    "rxex": "^1.0.0",
     "rxjs": "^5.5.6",
     "tslib": "^1.8.1"
   },

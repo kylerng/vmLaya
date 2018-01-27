@@ -3,7 +3,7 @@
  **/
 
 import LocalStorage = laya.net.LocalStorage;
-import {rxString, rxSubj} from "../../rx-ex";
+import {rxString, rxSubj} from "rxex";
 import {Subject} from "rxjs/Subject";
 
 export class Pref

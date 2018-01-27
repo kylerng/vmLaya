@@ -2,9 +2,9 @@
  * Created by Ying <me@YingDev.com> on 2017/12/3.
  **/
 import {Observable} from "rxjs/Observable";
-import {rxSubj} from "../../rx-ex";
-import {makeOneShotFun, uniMargins, zeroMargins} from "../utils";
-import {INavPageVm, INavTransition, IViewFactory, ViewInfo, ViewFactory, NavPageHolder, vmBindNext, SimpleNavTransition, NavigationViewModel, VmViewBase} from ".";
+import {rxSubj} from "rxex";
+import {makeOneShotFun, uniMargins, zeroMargins} from "../utils/index";
+import {INavPageVm, INavTransition, IViewFactory, ViewInfo, ViewFactory, NavPageHolder, vmBindNext, SimpleNavTransition, NavigationViewModel, VmViewBase} from "./index";
 import {Subject} from "rxjs/Subject";
 
 /**

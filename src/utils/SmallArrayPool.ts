@@ -2,7 +2,7 @@
  * Created by Ying <me@YingDev.com> on 2018/1/27.
  **/
 
-import {$} from "../../rx-ex";
+import {$} from "rxex";
 
 /**
  * 小数组池，通常只是临时使用，用完即归还

@@ -6,7 +6,7 @@
     "sourceRoot": "src",
     "target": "es6",
     "sourceMap": true,
-    "outDir": "vmlaya",
+    "outDir": "dist",
      "lib": ["es2015.promise", "es6", "dom"],
      "alwaysStrict": true,
     "experimentalDecorators": true,
@@ -14,6 +14,6 @@
   },
   "compileOnSave": false,
   "exclude": [
-    "node_modules", "vmlaya"
+    "node_modules", "./dist"
   ]
 }

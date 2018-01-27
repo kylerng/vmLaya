@@ -2,7 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="410b085b-610d-4e25-ab46-921d73921e83" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/src/LayaAir.d.ts" afterPath="$PROJECT_DIR$/src/libs/LayaAir.d.ts" />
+      <change beforePath="$PROJECT_DIR$/src/rx-ex/RxArray.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/rx-ex/RxCommand.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/rx-ex/RxDictionary.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/rx-ex/RxPropCommand.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/rx-ex/RxProperty.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/rx-ex/index.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/BindableView.ts" afterPath="$PROJECT_DIR$/src/BindableView.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/IMarkDirty.ts" afterPath="$PROJECT_DIR$/src/IMarkDirty.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/RcObject.ts" afterPath="$PROJECT_DIR$/src/RcObject.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/RxLaya.ts" afterPath="$PROJECT_DIR$/src/RxLaya.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/ViewBase.ts" afterPath="$PROJECT_DIR$/src/ViewBase.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/decorators.ts" afterPath="$PROJECT_DIR$/src/decorators.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/BasePanelViewModel_rc.ts" afterPath="$PROJECT_DIR$/src/mvvm/BasePanelViewModel_rc.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/DataSourceDrivenViewModel.ts" afterPath="$PROJECT_DIR$/src/mvvm/DataSourceDrivenViewModel.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/DummyViewFactory.ts" afterPath="$PROJECT_DIR$/src/mvvm/DummyViewFactory.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/NavPageHolder.ts" afterPath="$PROJECT_DIR$/src/mvvm/NavPageHolder.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/NavigationView.ts" afterPath="$PROJECT_DIR$/src/mvvm/NavigationView.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/NavigationViewModel.ts" afterPath="$PROJECT_DIR$/src/mvvm/NavigationViewModel.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/OverlayWrapperView.ts" afterPath="$PROJECT_DIR$/src/mvvm/OverlayWrapperView.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/RcViewModel.ts" afterPath="$PROJECT_DIR$/src/mvvm/RcViewModel.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/SimpleNavTransition.ts" afterPath="$PROJECT_DIR$/src/mvvm/SimpleNavTransition.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/ViewFactory.ts" afterPath="$PROJECT_DIR$/src/mvvm/ViewFactory.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/VmViewBase.ts" afterPath="$PROJECT_DIR$/src/mvvm/VmViewBase.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/decorators.ts" afterPath="$PROJECT_DIR$/src/mvvm/decorators.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/index.ts" afterPath="$PROJECT_DIR$/src/mvvm/index.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/mvvm/interfaces.ts" afterPath="$PROJECT_DIR$/src/mvvm/interfaces.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/utils/LangDict.ts" afterPath="$PROJECT_DIR$/src/utils/LangDict.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/utils/Pref.ts" afterPath="$PROJECT_DIR$/src/utils/Pref.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/utils/SmallArrayPool.ts" afterPath="$PROJECT_DIR$/src/utils/SmallArrayPool.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/utils/enumerate-decendants.ts" afterPath="$PROJECT_DIR$/src/utils/enumerate-decendants.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/utils/fmt.ts" afterPath="$PROJECT_DIR$/src/utils/fmt.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/utils/index.ts" afterPath="$PROJECT_DIR$/src/utils/index.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/utils/layout-helper.ts" afterPath="$PROJECT_DIR$/src/utils/layout-helper.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/utils/math.ts" afterPath="$PROJECT_DIR$/src/utils/math.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/utils/meta.ts" afterPath="$PROJECT_DIR$/src/utils/meta.ts" />
+      <change beforePath="$PROJECT_DIR$/src/vmlaya/utils/pollyfill.ts" afterPath="$PROJECT_DIR$/src/utils/pollyfill.ts" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" afterPath="$PROJECT_DIR$/tsconfig.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,104 +57,83 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="meta.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vmlaya/utils/meta.ts">
+      <file leaf-file-name="decorators.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/decorators.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMarkDirty.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IMarkDirty.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#60#132#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OverlayWrapperView.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vmlaya/mvvm/OverlayWrapperView.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-266">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LangDict.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vmlaya/utils/LangDict.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pref.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vmlaya/utils/Pref.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="RcObject.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vmlaya/RcObject.ts">
+        <entry file="file://$PROJECT_DIR$/src/RcObject.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+            <state relative-caret-position="408">
+              <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#59#102#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasePanelViewModel_rc.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vmlaya/mvvm/BasePanelViewModel_rc.ts">
+      <file leaf-file-name="BindableView.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BindableView.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="17">
+              <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#60#120#0" expanded="true" />
+                <element signature="e#60#97#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rx-ex/index.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+            <state relative-caret-position="408">
+              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tsconfig.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="34">
+              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;../rx-ex&quot;</find>
+      <find>../../rx-ex</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;rxex&quot;</replace>
+      <replace>rxex</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -131,9 +151,10 @@
         <option value="$PROJECT_DIR$/src/vm-laya/utils/meta.ts" />
         <option value="$PROJECT_DIR$/.npmignore" />
         <option value="$PROJECT_DIR$/src/rx-ex/index.ts" />
+        <option value="$PROJECT_DIR$/src/RcObject.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/tsconfig.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -147,8 +168,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="294" />
-    <option name="y" value="107" />
+    <option name="x" value="293" />
+    <option name="y" value="104" />
     <option name="width" value="1732" />
     <option name="height" value="1260" />
   </component>
@@ -191,6 +212,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/libs" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -224,15 +246,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517081348875</updated>
-      <workItem from="1517081350286" duration="8352000" />
+      <workItem from="1517081350286" duration="14207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8352000" />
+    <option name="totallyTimeSpent" value="14207000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="294" y="107" width="1732" height="1260" extended-state="0" />
+    <frame x="293" y="104" width="1732" height="1260" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44291845" sideWeight="0.34950322" order="6" side_tool="false" content_ui="tabs" />
@@ -240,6 +262,7 @@
       <window_info id="TODO" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25869566" sideWeight="0.3678161" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3971903" sideWeight="0.534058" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264526" sideWeight="0.41396263" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44291845" sideWeight="0.6504968" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3971903" sideWeight="0.534058" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24902071" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -253,7 +276,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25869566" sideWeight="0.3723404" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19013666" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264526" sideWeight="0.41396263" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -268,7 +290,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LayaAir.d.ts">
+    <entry file="file://$PROJECT_DIR$/src/libs/LayaAir.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
@@ -276,7 +298,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/mvvm/index.ts">
+    <entry file="file://$PROJECT_DIR$/src/mvvm/index.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
@@ -284,37 +306,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/RxLaya.ts">
+    <entry file="file://$PROJECT_DIR$/src/RxLaya.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/BindableView.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/decorators.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/ViewBase.ts">
+    <entry file="file://$PROJECT_DIR$/src/ViewBase.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
@@ -356,7 +356,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/mvvm/ViewFactory.ts">
+    <entry file="file://$PROJECT_DIR$/src/mvvm/ViewFactory.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="146" column="7" lean-forward="false" selection-start-line="146" selection-start-column="7" selection-end-line="146" selection-end-column="7" />
@@ -364,25 +364,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rx-ex/RxProperty.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/rx-ex/RxArray.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/mvvm/NavigationView.ts">
+    <entry file="file://$PROJECT_DIR$/src/mvvm/NavigationView.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
@@ -390,7 +372,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/mvvm/NavigationViewModel.ts">
+    <entry file="file://$PROJECT_DIR$/src/mvvm/NavigationViewModel.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
@@ -398,28 +380,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/mvvm/BasePanelViewModel_rc.ts">
+    <entry file="file://$PROJECT_DIR$/src/mvvm/BasePanelViewModel_rc.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#60#120#0" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#60#120#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/RcObject.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/utils/LangDict.ts">
+    <entry file="file://$PROJECT_DIR$/src/utils/LangDict.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
@@ -427,7 +399,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/utils/Pref.ts">
+    <entry file="file://$PROJECT_DIR$/src/utils/Pref.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
@@ -435,18 +407,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/mvvm/OverlayWrapperView.ts">
+    <entry file="file://$PROJECT_DIR$/src/mvvm/OverlayWrapperView.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-266">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/rx-ex/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -459,12 +423,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vmlaya/utils/meta.ts">
+    <entry file="file://$PROJECT_DIR$/src/utils/meta.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
-            <element signature="e#60#132#0" expanded="true" />
+            <element signature="e#60#132#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -477,26 +441,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+    <entry file="file://$PROJECT_DIR$/src/rx-ex/RxPropCommand.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/rx-ex/RxProperty.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="42" column="31" lean-forward="false" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rx-ex/RxDictionary.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rx-ex/RxCommand.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rx-ex/RxArray.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rx-ex/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorators.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IMarkDirty.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcObject.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="e#59#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BindableView.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="e#60#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        <state relative-caret-position="408">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding />
         </state>
       </provider>

@@ -1,7 +1,7 @@
 /**
  * Created by Ying <me@YingDev.com> on 2017/12/3.
  **/
-import {rxCmd, RxCommand, rxProp, RxProperty} from "../../rx-ex";
+import {rxCmd, RxCommand, rxProp, RxProperty} from "rxex";
 import {Observable} from "rxjs/Observable";
 import {RcObject, ref, unref} from "../RcObject";
 import {RcViewModel} from "./RcViewModel";
