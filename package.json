@@ -5,7 +5,7 @@
   "main": "''",
   "scripts": {
     "test": "''",
-    "build": "rm -rf vmlaya && tsc -p .",
+    "build": "rm -rf vmlaya && tsc -p `pwd`",
     "publish": "npm run build && cp package.json ./vmlaya && npm publish vmlaya"
   },
   "repository": {
