@@ -30,7 +30,7 @@ class HelloView extends VmViewBase<HelloViewModel>
     lbHello: Laya.Label;
 }
 
-//另一个 View。由于 ViewModel 不依赖于 View，因此我们可以用 N 种 View 来呈现同一个 VM
+//另一个 View
 class WorldView extends VmViewBase<HelloViewModel>
 {
     //可以对数据进行格式化后显示
