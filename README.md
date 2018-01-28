@@ -1,9 +1,12 @@
 # vmLaya
-MVVM for LayaAir based on rxjs. http://www.yingdev.com
+MVVM for LayaAir. Based on rxjs. http://www.yingdev.com
+
+## ⚠注意
+️这只是一个 UI 库，不适合用来实现游戏逻辑。
 
 # 工具链要求
 - Typescript + es6 输出
-- webpack
+- Webpack
 
 # 安装
 ```bash
