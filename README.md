@@ -10,4 +10,6 @@ MVVM for LayaAir based on rxjs. http://www.yingdev.com
 npm install vmlaya --save
 ```
 # 示例
-todo
+https://github.com/yingDev/vmlaya-example
+
+todo...
