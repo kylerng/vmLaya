@@ -13,6 +13,10 @@ npm install vmlaya --save
 https://github.com/yingDev/vmlaya-example
 
 ```typescript
+import {$} from "rxex";
+import {vmBindLabel, VmViewBase} from "vmlaya/mvvm";
+import {assignIts, bindIts, createView} from "vmlaya/decorators";
+
 const TEST_PAGE = 'TestPage.json';
 
 //我们的 ViewModel
